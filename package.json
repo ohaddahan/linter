@@ -16,7 +16,7 @@
     "express": "^4.17.1",
     "fs": "0.0.1-security",
     "lodash": "^4.17.19",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.1",
     "pug": "^2.0.4",
     "typescript": "^3.7.3"
   }
