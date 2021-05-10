@@ -15,7 +15,7 @@
     "child_process": "^1.0.2",
     "express": "^4.17.1",
     "fs": "0.0.1-security",
-    "lodash": "^4.17.19",
+    "lodash": "^4.17.21",
     "node-fetch": "^2.6.1",
     "pug": "^3.0.1",
     "typescript": "^3.7.3"
